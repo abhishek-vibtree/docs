@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "OneInbox AI",
+  "name": "Omnixis AI",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -18,29 +18,17 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hello@oneinbox.ai"
+      "url": "mailto:help@omnixis.ai"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.oneinbox.ai"
+    "url": "https://app.omnixis.ai"
   },
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Feedback",
-      "icon": "comment",
-      "url": "https://feedback.oneinbox.ai/b/1v3jd8m7/feature-requests"
-    },
-    {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://discord.com/invite/tAbnKbxCa8"
     }
   ],
   "navigation": [
@@ -127,8 +115,8 @@
     }
   ],
   "footerSocials": {
-    "facebook": "https://www.facebook.com/oneinboxai/",
-    "youtube": "https://www.youtube.com/@OneInbox-AI",
-    "linkedin": "https://www.linkedin.com/company/oneinboxai/"
+    "instagram": "https://www.instagram.com/omnixis.ai/",
+    "youtube": "https://www.youtube.com/",
+    "facebook": "https://www.facebook.com/"
   }
 }
